@@ -7,7 +7,7 @@
 #
 Name     : pypi-locate
 Version  : 1.1.1
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/26/b0/6b303d4a2a20046dc396de914a6c1840253ff874630f00864ffe623acb68/locate-1.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/26/b0/6b303d4a2a20046dc396de914a6c1840253ff874630f00864ffe623acb68/locate-1.1.1.tar.gz
 Summary  : Locate the file location of your current running script.
